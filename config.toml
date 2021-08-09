@@ -1,6 +1,4 @@
-baseurl = "http://www.example.com"
+baseURL = "http://example.org/"
+languageCode = "en-us"
 title = "Developers of Dearborn"
-theme = "ananke"
-languagecode = "en"
-defaultcontentlanguage = "en"
-
+theme = "dod"
