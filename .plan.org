@@ -1,0 +1,37 @@
+* Speciifcations
+  + Dev Logs
+  + Social media connections
+  + Recuriting forms
+  + Link to UM DearCock's website
+  + About Page
+  + Itch IO Intergation/Projects
+  + Join club discord link == Sign up sheep
+  + Email to get doxed
+  + Make updates easily
+  + Calendar
+  + Events
+  + Resources
+  + People currently on the team
+** Pages
+   + Dev Logs
+   + [ ] About us
+   + [ ] Projects
+     + isCompleted
+     + URL
+     + Team members
+   + [ ] events
+   + [ ] Join
+   + [ ] Contact
+* Design
+  + Hugo :: Sattic site genration
+  + W3.css :: Lightweight bootstraping
+* Hosting
+  + Github
+  + Google sites
+  + wordpress
+  + neocitis
+  + https://www.w3schools.com/spaces/
+* Inspiration
+  + https://www.wolverinesoft.org/
+* Second Specs
+  + Add in project filter
