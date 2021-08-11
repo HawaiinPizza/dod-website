@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dev-logs on Developers of Dearborn</title>
+    <link>http://example.org/dev-logs/</link>
+    <description>Recent content in Dev-logs on Developers of Dearborn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Aug 2021 20:52:00 -0400</lastBuildDate><atom:link href="http://example.org/dev-logs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://example.org/dev-logs/jaxon/</link>
+      <pubDate>Mon, 09 Aug 2021 20:52:00 -0400</pubDate>
+      
+      <guid>http://example.org/dev-logs/jaxon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kirkj</title>
+      <link>http://example.org/dev-logs/kirk-sexy/</link>
+      <pubDate>Mon, 09 Aug 2021 20:49:19 -0400</pubDate>
+      
+      <guid>http://example.org/dev-logs/kirk-sexy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

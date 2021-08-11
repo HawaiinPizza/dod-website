@@ -1,0 +1,17 @@
+{{ define "main" }}
+<!-- <h3>Posts</h3> -->
+{{ range .Pages.ByDate }}
+<div class="w3-container">
+        <h2><b>{{.Title}}</b></h2>
+        <a href="{{.URL}}">
+
+                <div class="w3-card-4 w3-black w3-hover-shadow w3-center" style="width:20em">
+                        <img src="{{.Params.image}}" alt="Alps" style="width:100%">
+                        <div class="w3-container w3-center">
+                                <p>{{.Description}}</p>
+                        </div>
+        </a>
+                </div>
+</div>
+{{ end }}
+{{ end }}

@@ -1,0 +1,16 @@
+{{ define "title" }}
+<!-- This will override the default value set in baseof.html; i.e., "{{.Site.Title}}" in the original example-->
+{{ .Title }} &ndash; {{ .Site.Title }}
+{{ end }}
+{{ define "main" }}
+<h4><a href="{{.Params.itchio}}"> Play now by clicking on the link </a> </h4>
+{{ .Content }}
+<h4> Credits </h4>
+<ul>
+        {{ range  .Params.TeamMembers}}
+        <li> {{.}} </li>
+        {{end}}
+</ul>
+{{ end }}
+
+
