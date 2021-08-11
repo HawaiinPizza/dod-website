@@ -14,8 +14,8 @@
   + People currently on the team
 ** Pages
    + Dev Logs
-   + [ ] About us
-   + [ ] Projects
+   + [X] About us
+   + [X] Projects
      + isCompleted
      + URL
      + Team members
